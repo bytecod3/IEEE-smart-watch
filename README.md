@@ -12,6 +12,9 @@ The smart watch features the following:
 6. Flash memory 
 7. OLED mini display
 
+### Block diagram
+![Block diagram](./diagrams/smart-watch-block-diagram.png)
+
 ### Time 
 The watch shall be able to tell time accurately based on the Network
 Time Protocol(NTP).It should also be able to maintain accurate time 
