@@ -1,5 +1,11 @@
 # IEEE-smart-watch
-Smart watch project for IEEE embedded design classes
+Smart watch project for IEEE embedded design classes 2024
+
+![Static Badge](https://img.shields.io/badge/license-MIT-orange?label=licence)
+![Static Badge](https://img.shields.io/badge/version-1-blue)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-17-red)
+![Static Badge](https://img.shields.io/badge/platform-esspressif32-green)
+
 
 
 ## General features 
@@ -75,7 +81,11 @@ The processor shall feature WIFI and BLE in-chip.
 ### Accelerometers
 The accelerometer used must be capable of shock detection 
 
-### 
+## UML Diagram
+This shows the classes and methods we shall implement. Keep in mind that this is highly volatile and will keep morphing 
+as development continues.
+
+![UML](./UML/uml-design-diagram(UMLET).png)
 
 
 
